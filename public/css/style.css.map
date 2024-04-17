@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/cmdu/Documents/--t/--twcom/x-website/tw-com",
+	"sourceRoot": "/Users/cmdu/Documents/4-Archives/24-04-03/--t/--twcom/x-website/tw-com",
 	"sources": [
 		"themes/bridget/assets/scss/style.scss",
 		"themes/bridget/assets/scss/_partial/_customCursor.scss",
