@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://www.example.com/'
+baseURL = 'https://www.tobiaswirz.com'
 # website title
 title = 'Studio Tobias Wirz'
 # don't touch this
